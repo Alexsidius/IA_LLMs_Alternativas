@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+google-generativeai
+langchain-google-genai
+google-genai
